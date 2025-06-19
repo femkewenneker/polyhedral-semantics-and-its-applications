@@ -12,4 +12,4 @@ Then, there are three example models, which each have their own directory:
 2. hierarchy: the model of a tree that was used in the thesis to demonstrate formulas that express hierarchy.
 3. strahler: the model of a tree that was used in the thesis to demonstrate formulas that express Strahler numbers.
 
-In the directories for hierarchy and strahler we have also included the documents with the formulas, that can be used as input for PolyLogicA.
+In the directories hierarchy and strahler we have also included the documents with the formulas, that can be used as input for PolyLogicA.
