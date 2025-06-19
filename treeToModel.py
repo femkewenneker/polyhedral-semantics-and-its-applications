@@ -2,10 +2,10 @@
 Input: a json file in the form as made by treezer.py.
 Output: a json file that can be used as input for PolyLogicA
 
-All of the code in this file is based on the code made by XX to convert
-mazes into models for PolyLogicA. It has been admended to convert trees 
-into models, such that the nodes are square-based pyramids and the branches
-connect a square to a triangle.
+All of the code in this file is based on the code that was written by Gianluca Grilletti
+and modified by Mieke Massink to convert mazes into models for PolyLogicA. 
+That code has been modified here to convert trees into models, such that the
+nodes are square-based pyramids and the branches connect a square to a triangle.
 
 Femke Wenneker, June 20 2025.
 '''
