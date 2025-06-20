@@ -1,6 +1,5 @@
 # Polyhedral models of tree structures for PolyLogicA.
 This code was made to generate polyhedral models of tree structures that be used as input for the spatial model checker PolyLogicA.
-There are also some example models, which were used to demonstrate results in the thesis "Polyhedral Semantics and its Applications".
 
 There are three files for generating the models, whose outputs are inputs for the next step:
   1. treeMaker.py: generates a random text file representing a tree.
